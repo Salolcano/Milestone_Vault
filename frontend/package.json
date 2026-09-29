@@ -11,8 +11,8 @@
     "@genlayer/transaction-kit": "0.1.0-rc.2",
     "@genlayer/transaction-kit-react": "0.1.0-rc.2",
     "genlayer-js": "2.0.0-rc.1",
-    "next": "15.1.6",
-    "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "next": "15.5.21",
+    "react": "19.2.1",
+    "react-dom": "19.2.1"
   }
 }
